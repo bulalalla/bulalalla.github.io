@@ -1,9 +1,12 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
   font-weight: normal;
 }
 
@@ -23,13 +26,14 @@ a,
 
 @media (min-width: 1024px) {
   body {
+    height: 100%;
+    width: 100%;
     display: flex;
     place-items: center;
   }
 
   #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+    height: 100%;
+    width: 100%;
   }
 }
