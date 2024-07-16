@@ -1,5 +1,3 @@
-bundle lock --add-platform x86_64-linux
-
 PATH
   remote: .
   specs:
@@ -14,6 +12,7 @@ PATH
 
 GEM
   remote: https://rubygems.org/
+  $ bundle lock --add-platform x86_64-linux
   specs:
     Ascii85 (1.1.1)
     addressable (2.8.7)
