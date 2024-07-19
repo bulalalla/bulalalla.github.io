@@ -595,7 +595,7 @@ A B  1.0  4.0  5.0  8.0  10.0
 
 3. 在Excel中，这个数据结构对应如图所示
 
-   ![image-20240719225918495](E:\learn\博客\bulalalla.github.io\assets\img\image-20240719225918495.png)
+   ![image-20240719225918495](\assets\img\image-20240719225918495.png)
 
    列为 a, b，行为 A, B的值为1，列为 b, b 行为A, B 对应的值为10
 
