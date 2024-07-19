@@ -10,7 +10,7 @@ tags: [Python, Pandas, Data Process]   # TAG names should always be lowercase
 
 author: bulalalla
 
-description: 对Pandas功能进行介绍，
+description: 对Pandas基本数据结构、重要方法的介绍，此外还介绍了Pandas的Excel、csv相关工具用法
 
 ---
 
@@ -595,7 +595,7 @@ A B  1.0  4.0  5.0  8.0  10.0
 
 3. 在Excel中，这个数据结构对应如图所示
 
-   ![image-20240719225918495](E:\learn\博客\bulalalla.github.io\assets\img\image-20240719225918495.png)
+   ![image-20240719225918495](\assets\img\image-20240719225918495.png)
 
    列为 a, b，行为 A, B的值为1，列为 b, b 行为A, B 对应的值为10
 
