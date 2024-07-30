@@ -1,5 +1,4 @@
 ---
-
 title: Pandas, Execel, Csv
 
 date: 2024-07-16 12:00:00 +/-8000
@@ -12,6 +11,8 @@ author: bulalalla
 
 description: 对Pandas基本数据结构、重要方法的介绍，此外还介绍了Pandas的Excel、csv相关工具用法
 
+
+
 ---
 
 > **注：撰写此笔记时，pandas的stable版本为2.2**
@@ -22,7 +23,7 @@ description: 对Pandas基本数据结构、重要方法的介绍，此外还介�
 
 pandas是一个专门处理 表格式（tabular）数据的python工具包，在Pandas中，一个表格式数据被叫做 ```DataFrame```
 
-![image-20240716134915391](../assets/img/image-20240716134915391.png)
+![image-20240716134915391](C:/Users/96253/assets/img/image-20240716134915391.png)
 
 ### 功能简述
 
@@ -155,7 +156,6 @@ One of the following combinations of libraries is needed to use the top-level [`
 
 > - if you install [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup) you must install either [lxml](https://lxml.de/) or [html5lib](https://github.com/html5lib/html5lib-python) or both. [`read_html()`](https://pandas.pydata.org/docs/reference/api/pandas.read_html.html#pandas.read_html) will **not** work with *only* [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup) installed.
 > - You are highly encouraged to read [HTML Table Parsing gotchas](https://pandas.pydata.org/docs/user_guide/io.html#io-html-gotchas). It explains issues surrounding the installation and usage of the above three libraries.
->
 
 {: .prompt-warning}
 
