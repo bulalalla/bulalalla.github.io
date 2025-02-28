@@ -1,6 +1,9 @@
 name: "Build and Deploy"
 on:
   push:
+    paths:
+      - "!*.md"
+      - "!assets/**"
     branches:
       - main
       - master
