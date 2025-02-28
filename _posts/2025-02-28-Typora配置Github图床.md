@@ -182,34 +182,6 @@ Typora是一款非常方便的文本编辑器，用来编写博客非常方便�
 
       - 确保 Typora 是最新版本。
 
-
----
-
-### 7. **示例 `picgo.json` 文件**
-以下是一个完整的 `picgo.json` 文件示例：
-
-```json
-{
-  "picBed": {
-    "current": "github",
-    "github": {
-      "repo": "your-username/my-image-repo",
-      "branch": "main",
-      "token": "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-      "path": "assets/",
-      "customUrl": ""
-    }
-  },
-  "picgoPlugins": {
-    "github": true
-  }
-}
-```
-
----
-
-通过以上步骤，你可以成功配置 PicGo-Core，实现 Typora 图片自动上传到 GitHub 仓库的 `assets` 目录。如果有问题，可以参考 [PicGo-Core 官方文档](https://picgo.github.io/PicGo-Core-Doc/zh/guide/) 或相关教程。
-
 ---
 
 
