@@ -15,7 +15,7 @@ description: 对Pandas基本数据结构、重要方法的介绍，此外还介�
 
 pandas是一个专门处理 表格式（tabular）数据的python工具包，在Pandas中，一个表格式数据被叫做 ```DataFrame```
 
-![image-20240716134915391](E:/learn/bulalalla.github.io/assets/img/image-20240716134915391.png)
+![image-20240716134915391](https://raw.githubusercontent.com/bulalalla/bulalalla.github.io/master/assets/img/image-20240716134915391.png)
 
 ### 功能简述
 
@@ -587,7 +587,7 @@ A B  1.0  4.0  5.0  8.0  10.0
 
 3. 在Excel中，这个数据结构对应如图所示
 
-   ![image-20240719225918495](../assets/img/image-20240719225918495.png)
+   ![image-20240719225918495](https://raw.githubusercontent.com/bulalalla/bulalalla.github.io/master/assets/img/image-20240719225918495.png)
 
    列为 a, b，行为 A, B的值为1，列为 b, b 行为A, B 对应的值为10
 
