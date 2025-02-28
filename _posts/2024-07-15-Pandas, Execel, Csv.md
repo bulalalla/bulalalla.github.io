@@ -1,18 +1,10 @@
 ---
 title: Pandas, Execel, Csv
-
 date: 2024-07-16 12:00:00 +/-8000
-
 categories: [Python, Pandas]
-
 tags: [Python, Pandas, Data Process]   # TAG names should always be lowercase
-
-author: bulalalla
-
+author: Winter.W
 description: 对Pandas基本数据结构、重要方法的介绍，此外还介绍了Pandas的Excel、csv相关工具用法
-
-
-
 ---
 
 > **注：撰写此笔记时，pandas的stable版本为2.2**
