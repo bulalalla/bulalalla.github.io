@@ -5,7 +5,6 @@ date: 2025-02-28
 categories: [其它]
 tags: [typora, images upload, github]
 math: true
-mermaid: true
 ---
 
 
